@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Singh</h1>
-<h3 align="center">An Fresh ITian willing to learn more about technologies and contributing towards the society</h3>
+<h3 align="center">Software Engineer at Zeus Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysingh18&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysingh18" /> </p>
 
